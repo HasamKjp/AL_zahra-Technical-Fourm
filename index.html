@@ -3,15 +3,20 @@
  
 
 
+ 
+
+
 <!DOCTYPE html>
 <html>
 <head>
+	<script src="scripts.js"> </script>
+
 	<title>Signup</title>
 	<style type="text/css">
 		body{
- 		   background-color: #112;
+			background-image: url("unsplash-photo-2.jpg");
+           background-size: cover;	
 }
- 
 	#text{
 
 		height: 25px;
@@ -39,22 +44,21 @@
 	}
 
 	.box{
-		border-radius: 10px;
+		border-radius: 15px;
 border:5px solid #ccc;
 box-shadow: 10px 10px rgb(100, 90, 90);
 		background-color: rgba(92, 15, 75, 0.692);
 		margin: auto;
-		width: 70%;
+		width: 80%;
+		height: 70%;;
 		padding: 20px;
-		height: 70%;
-
 	}
 a{
 	 color: #fff;
 
 }
 .F_end{
-	color: #fff;
+	color: #ccc;
 }
 	</style>
 </head>
@@ -62,13 +66,13 @@ a{
 
 <br> 
 <center>
-<div class="box col-lg-4 col-md-6 col-sm-6 col-xs-6"><br><br>
-	<img class="logo" src="profile.jpg" >
-	<h2 class="F_end"> AL zahra Technical Fourm </h2> <br><br><br>
+<div class="box col-lg-4 col-md-6 col-sm-6 col-xs-6">
+	<img class="logo   "  name ="slide" >  
 
-		<form method="post"><br><br>
-			<div style="font-size: 20px;margin: 10px;color: white;">Signup</div><br><br>
-
+ 
+		<form method="post"><br><br><br><br>
+			<div style="font-size: 20px;margin: 10px;color: white;">Signup</div>
+			<br><br><br><br>
 			<input id="text" type="text" name="user_name" placeholder="   First name"><br><br><br><br>
 			<input id="text" type="text" name="last_name" placeholder="   last name"><br><br><br><br>
 			<input id="text" type="password" name="password" placeholder="  password"><br><br><br><br>
@@ -78,7 +82,10 @@ a{
 
 			<a href="login.php">Click to Login</a><br><br><br><br>
 		</form>
-		<h3 class="F_end">&copy;  AL zahra Technical Fourm 2022 </h3> <br><br><br>
+		<marquee>
+
+		<h3 class="F_end">&copy;  AL zahra Technical Fourm 2022  <br><br><br><br>
+		</marquee>
 
 	</div>
 	</center>
