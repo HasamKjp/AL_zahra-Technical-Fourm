@@ -2,11 +2,10 @@
       var i=0;
       var imagees =[];
       var time =1700;
-       imagees [0]='im_ages.jpg';
-      imagees [1]='downl).png';
-      imagees [2]='ima).png';
-      imagees [3]='images).jpg';
-       
+       imagees [0]='images7.png';
+      imagees [1]='docoad.jpg';
+      imagees [2]='images).jpg';
+      imagees [3]='ima.jpg';
 
       function changeImg (){
       document.slide.src=imagees[i];
