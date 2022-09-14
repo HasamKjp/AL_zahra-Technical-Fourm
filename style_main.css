@@ -1,0 +1,11 @@
+.pars{
+    font-size: 30px;
+    color: white;
+    padding: 3%;
+    background-color: rgb(84, 85, 85);
+}
+ 
+.main-title{
+    font-style: italic;
+    display: none;
+}
