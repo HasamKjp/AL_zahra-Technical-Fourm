@@ -5,7 +5,7 @@
       imagees [0]=' download).png';
       imagees [1]=' javaa.jpg';
       imagees [2]=' im).jpg';
-      imagees [3]=' dow).png';
+      imagees [3]=' download).png';
        
 
       function changeImg (){
