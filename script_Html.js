@@ -3,9 +3,9 @@
       var imagees =[];
       var time =1700;
       imagees [0]='docoad.jpg';
-      imagees [1]=' downl).png';
+      imagees [1]='images7.png';
       imagees [2]='docoad.jpg';
-      imagees [3]=' images).jpg';
+      imagees [3]='images7.jpg';
        
 
       function changeImg (){
