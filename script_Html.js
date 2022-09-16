@@ -2,10 +2,10 @@
       var i=0;
       var imagees =[];
       var time =1700;
-      imagees [0]='pictur/docoad.jpg';
-      imagees [1]='pictur/downl).png';
-      imagees [2]='pictur/ima).png';
-      imagees [3]='pictur/images).jpg';
+      imagees [0]='docoad.jpg';
+      imagees [1]=' downl).png';
+      imagees [2]=' ima).png';
+      imagees [3]=' images).jpg';
        
 
       function changeImg (){
