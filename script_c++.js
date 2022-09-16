@@ -4,7 +4,7 @@
       var time =1700;
       imagees [0]=' hbu.png';
       imagees [1]=' nxjnik.jpg';
-      imagees [2]=' huho.jpg';
+      imagees [2]=' hbu.png';
       imagees [3]=' nxjnik.jpg';
        
 
